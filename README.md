@@ -1,4 +1,4 @@
-# Welcome to [kiranraj's](https://github.com/kiranRajraj/) profile! <a href="https://github.com/kiranRajraj/"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a><img src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif" height=15% width=40% align="right">v
+# Welcome to [kiranraj's](https://github.com/kiranRajraj/) profile! <a href="https://github.com/kiranRajraj/"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a><img src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif" height=15% width=40% align="right">
 i am a
 * Future Data Scientist 
 * Deep Learning in Medical Image Processing and Analysis Paper Author
